@@ -1,0 +1,4 @@
+com\shell\rest\works\service\UserService.class
+com\shell\rest\works\beans\User.class
+com\shell\rest\works\RestWorksApplication.class
+com\shell\rest\works\controller\UserController.class
